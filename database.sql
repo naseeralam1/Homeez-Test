@@ -1,4 +1,4 @@
-CREATE DATABASE homeez;
+--CREATE DATABASE homeez;
 
 CREATE TABLE Quotation
 (
